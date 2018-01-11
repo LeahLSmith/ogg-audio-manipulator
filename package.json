@@ -1,0 +1,19 @@
+{
+  "name": "oggmanip",
+  "version": "1.0.0",
+  "description": "decoding, encoding ogg files and translation of waveforms to PNG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leahlsmith",
+  "license": "MIT",
+  "dependencies": {
+    "web-audio-api": "^0.2.1",
+    "xhr2": "^0.1.1",
+    "xmlhttprequest": "^1.7.0",
+    "vorbis": "0.2.1",
+    "ogg": "^1.2.5"
+
+  }
+}
